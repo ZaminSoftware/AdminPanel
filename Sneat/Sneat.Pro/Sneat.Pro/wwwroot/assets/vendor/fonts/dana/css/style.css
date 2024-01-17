@@ -1,0 +1,4 @@
+@import url(fontiran.css); /* لینک فایلی که وظیفه بارگذاری فونت ها را برعهده دارد */
+:root {
+	--bs-body-font-family: dana !important;
+}
